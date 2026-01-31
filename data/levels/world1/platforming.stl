@@ -339,6 +339,7 @@
     )
     (switch
       (z-pos 1)
+      (direction "right")
       (script "platform2.start_moving();")
       (x 2814)
       (y 125)

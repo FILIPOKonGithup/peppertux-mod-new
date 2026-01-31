@@ -58,22 +58,8 @@
     (bouncingsnowball
       (z-pos 50)
       (direction "left")
-      (x 8544)
-      (y 1344)
-      (glinting #f)
-    )
-    (bouncingsnowball
-      (z-pos 50)
-      (direction "left")
-      (x 9120)
+      (x 9088)
       (y 1312)
-      (glinting #f)
-    )
-    (bouncingsnowball
-      (z-pos 50)
-      (direction "left")
-      (x 9696)
-      (y 1248)
       (glinting #f)
     )
     (camera
@@ -340,6 +326,18 @@
       (direction "left")
       (x 3968)
       (y 2016)
+      (glinting #f)
+    )
+    (snowball
+      (z-pos 50)
+      (x 9664)
+      (y 1280)
+      (glinting #f)
+    )
+    (snowball
+      (z-pos 50)
+      (x 8512)
+      (y 1344)
       (glinting #f)
     )
     (spawnpoint
