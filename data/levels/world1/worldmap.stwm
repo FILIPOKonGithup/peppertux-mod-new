@@ -163,20 +163,6 @@
     )
     (level
       (z-pos 50)
-      (level "intro.stl")
-      (auto-play #t)
-      (x 11)
-      (y 91)
-    )
-    (level
-      (z-pos 50)
-      (level "yeti_cutscene.stl")
-      (auto-play #t)
-      (x 91)
-      (y 94)
-    )
-    (level
-      (z-pos 50)
       (level "yeti_boss.stl")
       (sprite "/images/worldmap/common/yeti.sprite")
       (x 95)
