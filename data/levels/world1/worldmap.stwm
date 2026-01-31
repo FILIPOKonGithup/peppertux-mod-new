@@ -180,8 +180,24 @@
       (x 62)
       (y 87)
     )
+    (level
+      (z-pos 50)
+      (level "intro.stl")
+      (auto-play #t)
+      (sprite "/images/worldmap/common/invisible.png")
+      (x 11)
+      (y 92)
+    )
+    (level
+      (z-pos 50)
+      (level "yeti_cutscene.stl")
+      (auto-play #t)
+      (sprite "/images/worldmap/common/invisible.png")
+      (x 93)
+      (y 92)
+    )
     (music
-      (file "/music/salcon.ogg")
+      (file "/music/antarctic/arctic_breeze.music")
     )
     (special-tile
       (z-pos 50)
